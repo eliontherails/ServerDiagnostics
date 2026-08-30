@@ -1,0 +1,12 @@
+name: ServerDiagnostics
+version: 0.1.0
+main: me.habibi.serverdiagnostics.ServerDiagnostics
+api-version: '1.21'
+
+description: Server diagnostics and health monitoring plugin
+author: Ironish
+
+commands:
+  serverdiag:
+    description: View server diagnostics
+    usage: /serverdiag
